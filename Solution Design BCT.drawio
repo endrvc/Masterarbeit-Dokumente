@@ -1,0 +1,95 @@
+<mxfile host="65bd71144e" modified="2023-04-08T15:02:46.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.77.0 Chrome/102.0.5005.196 Electron/19.1.11 Safari/537.36" etag="nvHBJNyXvtNpGv5QcwuV" version="21.1.5" type="embed">
+    <diagram id="W0JX1s3fEZQFdNsFY1jl" name="Page-1">
+        <mxGraphModel dx="794" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="24" value="Blockchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="240" width="200" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Intelligenter&lt;br&gt;Vertrag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="369" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="470" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="IPFS-&lt;br&gt;Repository" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="4" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="130" y="310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=1;exitY=0.88;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;rounded=0;exitPerimeter=0;" parent="1" source="4" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="750" y="566"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Bildgebende Dokumentenquelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.7,0,0,0],[1,0.88,0,0,0]];" parent="1" vertex="1">
+                    <mxGeometry x="70" y="460" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="690" y="490"/>
+                        </Array>
+                        <mxPoint x="510" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="5" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="720" y="544"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Datenkonsument" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Identitätsregister" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="369" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Abfrage der Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="270" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Dokument abrufen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="460" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Anfrage Zugriff auf Bildquelle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="510" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Metadaten als NFT registrieren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="439" y="410" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Metadaten bereistellen &amp;amp; registrieren&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="450" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Identität&lt;br&gt;registrieren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="439" y="180" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Abfrage der Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="270" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Gewähr Zugriff auf Bildquelle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="570" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
