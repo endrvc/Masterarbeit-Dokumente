@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e" modified="2023-04-16T14:22:17.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.77.0 Chrome/102.0.5005.196 Electron/19.1.11 Safari/537.36" version="21.1.8" etag="Orv1VLZOHEpOOwZVsI9d" type="embed">
+    <diagram id="58JGzHdhzCdBEh8xLsl4" name="Page-1">
+        <mxGraphModel dx="1191" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="81" value="ImageShare.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="310" y="320" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="IdentityManagement.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="540" y="320" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="AccessControl.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="540" y="190" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="ERC721.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="310" y="190" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="ERC721Enumerable.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="80" y="320" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="ERC721URIStorage.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="80" y="450" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="ERC721Burnable" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+                    <mxGeometry x="80" y="190" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="84" target="83">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="620" y="440" as="sourcePoint"/>
+                        <mxPoint x="780" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="90" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="83" target="81">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="430" y="500" as="sourcePoint"/>
+                        <mxPoint x="590" y="500" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="510" y="360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="85" target="81">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="360" y="510" as="sourcePoint"/>
+                        <mxPoint x="390" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="86" target="81">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="350" y="480" as="sourcePoint"/>
+                        <mxPoint x="510" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" source="87">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="360" y="470" as="sourcePoint"/>
+                        <mxPoint x="310" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" source="88">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="390" y="480" as="sourcePoint"/>
+                        <mxPoint x="310" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
