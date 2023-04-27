@@ -1,0 +1,142 @@
+<mxfile host="65bd71144e" modified="2023-04-14T13:59:17.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.77.0 Chrome/102.0.5005.196 Electron/19.1.11 Safari/537.36" etag="EWsMBK6Mfzc-aNasMnww" version="21.1.8" type="embed">
+    <diagram id="aATU4dnEZt1yyCZRBe5N" name="Page-1">
+        <mxGraphModel dx="959" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="56" style="edgeStyle=none;html=1;" parent="1" source="55" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="55" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=none;rounded=0;" parent="1" source="55" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="875" y="890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="55" target="63" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Datenkonsument" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="681" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="1. Abfrage aller Token zu einem Patienten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="672.5" width="110" height="42.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Mapping NFT Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="530" width="350" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Mapping Datenzugriff Genehmigung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="830" width="350" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#bababa;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="845" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Adresse (Patient)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="855" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Adresse (Identität)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="855" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Bool&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="852.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#bababa;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="917.5" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Adresse (Patient)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="927.5" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Adresse (Identität)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="927.5" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Bool&lt;br&gt;0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="925" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#bababa;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="990" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Adresse (Patient)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1000" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Adresse (Identität)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1000" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Bool&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="997.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#bababa;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="545" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Adresse 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="555" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Adresse 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="627.5" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Adresse 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="700" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Token&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="550" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Token&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="625" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Token&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="625" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Token&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="625" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Token&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="697.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Token&lt;br&gt;6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="700" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#b9b6b6;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="617.5" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=left;strokeColor=#bbb9b9;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="690" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="IPFS-Repository" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="490" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="2. Abfrage entpsrechender Metadaten-Files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="910" y="613.5" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="3. Wenn nötig, Genehmigung anfragen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="841" width="110" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="63" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="63" target="55" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Bildgebende Dokumentenquelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="967.5" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="4. Anfrage Zugriff auf Bildquelle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="917.5" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="5. Genehmigung überprüfen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="972.5" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="6. Zugriffschlüssel verschlüsselt übermitteln" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="950" y="917.5" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Blockchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="499" width="410" height="591" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
